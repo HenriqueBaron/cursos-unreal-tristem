@@ -1,0 +1,4 @@
+# Compiled outputs
+*.obj
+*.exe
+*.ilk
